@@ -101,6 +101,8 @@ Transformers are the most important architecture in modern Generative AI, especi
 #### 2.1 Why Transformers?
 Transformers are efficient, scalable, and good at understanding long-range dependencies in language.
 
+<img width="720" height="516" alt="IMG_20260723_143435 jpg" src="https://github.com/user-attachments/assets/ea16c6df-271d-4ff8-aa5e-662b8c53c47a" />
+
 #### 2.2 Main Components
 - **Input Embedding:** Converts words into vectors.
 - **Positional Encoding:** Adds word-order information.
@@ -109,13 +111,19 @@ Transformers are efficient, scalable, and good at understanding long-range depen
 - **Layer Normalization:** Stabilizes training.
 - **Output Layer:** Predicts the next token.
 
+<img width="348" height="516" alt="IMG_20260723_143421 jpg" src="https://github.com/user-attachments/assets/d740b712-7806-4b06-83da-327355333771" />
+
 #### 2.3 Self-Attention
 Self-attention allows each word to compare itself with other words in the sentence and focus on the most relevant parts.
+
+<img width="436" height="516" alt="IMG_20260723_143445 jpg" src="https://github.com/user-attachments/assets/3f0f73a7-8a98-4fea-8da3-20fd4a285f6b" />
 
 #### 2.4 Architecture Types
 - **Encoder-only models:** Used for understanding tasks.
 - **Decoder-only models:** Used for text generation.
 - **Encoder-decoder models:** Used for translation and summarization.
+
+<img width="1024" height="1536" alt="ChatGPT Image Jul 23, 2026, 02_31_57 PM" src="https://github.com/user-attachments/assets/b99d725b-21a7-4cfd-be2c-a414e2a17889" />
 
 ---
 
