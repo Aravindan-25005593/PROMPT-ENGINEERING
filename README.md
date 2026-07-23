@@ -166,6 +166,8 @@ Scaling means increasing the model size, training data, and compute power used t
 - **Data size:** More data helps the model learn better patterns.
 - **Compute resources:** GPUs and TPUs are needed for training large models.
 
+<img width="1024" height="480" alt="IMG_20260723_145402 jpg" src="https://github.com/user-attachments/assets/e5adc4a0-455c-4f2e-b15a-fc18c90246fc" />
+
 #### 4.2 Effects of Scaling
 As models scale, they usually improve in:
 - reasoning
@@ -174,6 +176,8 @@ As models scale, they usually improve in:
 - coding
 - conversation
 
+<img width="1024" height="268" alt="IMG_20260723_145410 jpg" src="https://github.com/user-attachments/assets/202dec27-7b86-49a1-a494-a46f1d7fee28" />
+
 #### 4.3 Challenges
 - High training cost
 - Large memory requirement
@@ -181,8 +185,12 @@ As models scale, they usually improve in:
 - Longer training time
 - Safety and bias concerns
 
+<img width="1024" height="260" alt="IMG_20260723_145420 jpg" src="https://github.com/user-attachments/assets/5bce9afb-81c0-41da-840d-8c05410a091d" />
+
 #### 4.4 Scaling Law
 In general, increasing model size, data, and compute improves performance until gains start slowing down.
+
+<img width="1024" height="332" alt="IMG_20260723_145429 jpg" src="https://github.com/user-attachments/assets/e6c86b51-db02-41fa-8ac9-ad86a657a1a7" />
 
 ---
 
