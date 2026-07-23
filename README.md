@@ -201,6 +201,8 @@ A Large Language Model is a neural network trained on massive amounts of text to
 #### 5.1 What is an LLM?
 LLMs are designed to predict the next token in a sequence and generate coherent text.
 
+<img width="864" height="272" alt="IMG_20260723_150027" src="https://github.com/user-attachments/assets/f02a0e5c-e6a1-4001-80bd-ac83300d718d" />
+
 #### 5.2 Steps to Build an LLM
 1. **Collect data** from books, websites, articles, and code repositories.
 2. **Clean data** by removing duplicates, noise, and harmful content.
@@ -211,6 +213,8 @@ LLMs are designed to predict the next token in a sequence and generate coherent 
 7. **Evaluate** the model using accuracy, fluency, and safety metrics.
 8. **Deploy** it in apps, websites, and APIs.
 
+<img width="864" height="792" alt="IMG_20260723_150038" src="https://github.com/user-attachments/assets/badab60a-8ba5-48be-9e08-f1467089c1d5" />
+
 #### 5.3 Examples of LLMs
 - GPT
 - LLaMA
@@ -218,11 +222,15 @@ LLMs are designed to predict the next token in a sequence and generate coherent 
 - Claude
 - Mistral
 
+<img width="864" height="244" alt="IMG_20260723_150049" src="https://github.com/user-attachments/assets/49a2ad7b-2cdf-4988-8110-d3ecdfc9529c" />
+
 #### 5.4 Limitations
 - Can produce incorrect answers
 - May show bias
 - Needs large computation
 - Requires careful safety tuning
+
+<img width="864" height="276" alt="IMG_20260723_150102" src="https://github.com/user-attachments/assets/8be94cf5-ebf5-43ca-820f-bc25f18bc240" />
 
 ---
 
