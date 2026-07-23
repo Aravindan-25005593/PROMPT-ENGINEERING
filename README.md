@@ -134,6 +134,8 @@ Generative AI follows a pipeline that includes data collection, preprocessing, m
 #### 3.1 Workflow
 Data collection → data cleaning → tokenization → training → fine-tuning → output generation
 
+<img width="348" height="516" alt="IMG_20260723_143421 jpg" src="https://github.com/user-attachments/assets/b43422c7-b0b2-4c97-a0a4-0988b75d2d11" />
+
 #### 3.2 Applications
 - **Text generation:** Chatbots, summaries, emails, and articles.
 - **Code generation:** Programming assistants and debugging tools.
@@ -143,11 +145,15 @@ Data collection → data cleaning → tokenization → training → fine-tuning 
 - **Business:** Customer support and document automation.
 - **Research:** Literature review and idea generation.
 
+<img width="436" height="516" alt="IMG_20260723_143445 jpg" src="https://github.com/user-attachments/assets/770bbfe4-f128-4791-ac44-d51b8fe1dec2" />
+
 #### 3.3 Benefits
 - Saves time
 - Improves productivity
 - Supports creativity
 - Automates repetitive tasks
+
+<img width="1024" height="332" alt="IMG_20260723_144441 jpg" src="https://github.com/user-attachments/assets/97f6dfa4-213b-4b93-8e0f-46a5d7db1666" />
 
 ---
 
