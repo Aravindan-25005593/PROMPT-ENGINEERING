@@ -63,26 +63,36 @@ Step 7: Finalize and Export
 ### 1. Foundational Concepts of Generative AI
 
 Generative AI is a type of artificial intelligence that can create new content such as text, images, audio, video, and code. Unlike traditional AI, which mainly classifies or predicts, Generative AI learns patterns from data and produces fresh outputs that resemble the training data.
+
 <img width="508" height="556" alt="IMG_20260723_141930 jpg" src="https://github.com/user-attachments/assets/c9649498-5dc5-443e-aac1-eb211d393c33" />
+
 #### 1.1 Definition
 Generative AI systems are designed to learn the structure and patterns of existing data and use that knowledge to generate new, realistic content.
+
 <img width="508" height="556" alt="IMG_20260723_141949 jpg" src="https://github.com/user-attachments/assets/83b35e02-8881-4a05-8f30-8d9a0aec45a3" />
+
 #### 1.2 Types of Generative Models
 - **GANs (Generative Adversarial Networks):** Use a generator and discriminator to create realistic data.
 - **VAEs (Variational Autoencoders):** Learn latent representations and generate new samples.
 - **Diffusion Models:** Produce high-quality images by removing noise gradually.
 - **Transformers:** Mainly used for sequential data such as text.
+- 
 <img width="508" height="556" alt="IMG_20260723_142000 jpg" src="https://github.com/user-attachments/assets/779c4489-02cb-46c8-861b-0c537abfa7bd" />
+
 #### 1.3 Key Concepts
 - **Training data:** Large datasets used to teach the model.
 - **Tokens:** Small units of text processed by language models.
 - **Parameters:** Learnable values inside the model.
 - **Latent space:** Compact representation of data.
 - **Self-attention:** Mechanism that helps the model focus on important words.
+- 
 <img width="768" height="472" alt="IMG_20260723_142014 jpg" src="https://github.com/user-attachments/assets/86bb70d9-c5a5-4dde-937a-ef80e38729c5" />
+
 #### 1.4 Importance
+
 Generative AI is useful because it improves productivity, supports creativity, and helps automate many tasks.
 <img width="764" height="468" alt="IMG_20260723_142037 jpg" src="https://github.com/user-attachments/assets/0262e697-ca84-4d3f-85a0-01213aa1c52b" />
+
 
 ### 2. Generative AI Architectures (Like Transformers)
 
